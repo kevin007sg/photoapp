@@ -11,6 +11,10 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'ovirt-engine-sdk'
+gem 'fog'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'

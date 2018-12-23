@@ -16,7 +16,7 @@ $(document).on('ready turbolinks:load', function(){
   };
 
   
-  $(".cc_form").on('submit', submitHanlder);
+  $(".cc_form").on('submit', submitHandler);
   
   stripeResponseHandler = function (status, response) {
   var token, $form;

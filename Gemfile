@@ -15,6 +15,7 @@ gem 'carrierwave'
 gem 'mini_magick'
 gem 'ovirt-engine-sdk'
 gem 'fog'
+gem 'fog-aws'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
